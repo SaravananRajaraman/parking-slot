@@ -1,0 +1,37 @@
+{
+  "name": "parking-slot",
+  "version": "0.0.1",
+  "description": "Simple app for Web-developer",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://SaravananRajaraman@github.com/SaravananRajaraman/parking-slot.git"
+  },
+  "devDependencies": {
+    "grunt": "^0.4.5",
+    "grunt-contrib-clean": "*",
+    "grunt-contrib-uglify": "*",
+    "grunt-contrib-cssmin":"*",
+    "grunt-contrib-htmlmin":"*",
+    "grunt-contrib-imagemin":"*",
+    "grunt-contrib-copy":"*"
+  },
+  "keywords": [
+    "web",
+    "developer",
+    "html",
+    "css",
+    "js",
+    "jquery",
+    "html-5"
+  ],
+  "author": "Saravanan Rajaraman",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SaravananRajaraman/parking-slot/issues"
+  },
+  "homepage": "https://github.com/SaravananRajaraman/parking-slot"
+}

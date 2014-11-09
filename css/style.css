@@ -1,0 +1,35 @@
+.container{
+    margin-top: 2%;
+}
+.slot{
+    height: 200px;
+}
+.slot h1{
+    margin-top: 60px;
+    margin-left: 50px;
+    position: absolute;
+    font-size: 75px;
+}
+.slot div{
+    height: 200px;
+    cursor: pointer;
+}
+.free{
+    background-color: #218e4e;
+}
+.allotted{
+    background-color: #d9524c;
+}
+.logData{
+    margin-top: 50px;
+    height: 250px !important;
+    overflow: auto;
+}
+.info{
+    margin: 25px;
+    text-align: center;
+    height: 40px;
+}
+.info div{
+    margin-top:10px;
+}
